@@ -1,8 +1,9 @@
 name: flutter_glass_morphism
 description: A Flutter plugin implementing glassmorphism design with translucent, dynamic glass-like UI components featuring advanced blur, opacity, and visual effects.
 version: 1.0.0
-homepage: https://github.com/your-username/flutter_glass_morphism
-repository: https://github.com/your-username/flutter_glass_morphism
+homepage: https://github.com/vietle25/flutter-glass-morphism
+repository: https://github.com/vietle25/flutter-glass-morphism
+issue_tracker: https://github.com/vietle25/flutter-glass-morphism/issues
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
