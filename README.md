@@ -14,6 +14,11 @@ A Flutter plugin implementing glassmorphism design with translucent, dynamic gla
 - **Fluid Animations**: Smooth droplet formation and surface ripple effects
 - **Performance Optimized**: Efficient custom painters and GPU-accelerated effects
 
+## Demo
+
+<img src="./assets/demo.gif" width="400" />
+
+
 ## Installation
 
 Add this to your package's `pubspec.yaml` file:
